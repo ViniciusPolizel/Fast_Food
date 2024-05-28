@@ -1,0 +1,18 @@
+C:\Users\Usuário\Desktop\Fast Food\bin\Debug\net8.0-windows\Fast Food.exe
+C:\Users\Usuário\Desktop\Fast Food\bin\Debug\net8.0-windows\Fast Food.deps.json
+C:\Users\Usuário\Desktop\Fast Food\bin\Debug\net8.0-windows\Fast Food.runtimeconfig.json
+C:\Users\Usuário\Desktop\Fast Food\bin\Debug\net8.0-windows\Fast Food.dll
+C:\Users\Usuário\Desktop\Fast Food\bin\Debug\net8.0-windows\Fast Food.pdb
+C:\Users\Usuário\Desktop\Fast Food\obj\Debug\net8.0-windows\Fast_Food.Form1.resources
+C:\Users\Usuário\Desktop\Fast Food\obj\Debug\net8.0-windows\Fast Food.csproj.GenerateResource.cache
+C:\Users\Usuário\Desktop\Fast Food\obj\Debug\net8.0-windows\Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\Fast Food\obj\Debug\net8.0-windows\Fast Food.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\Fast Food\obj\Debug\net8.0-windows\Fast Food.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\Fast Food\obj\Debug\net8.0-windows\Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Fast Food\obj\Debug\net8.0-windows\Fast Food.dll
+C:\Users\Usuário\Desktop\Fast Food\obj\Debug\net8.0-windows\refint\Fast Food.dll
+C:\Users\Usuário\Desktop\Fast Food\obj\Debug\net8.0-windows\Fast Food.pdb
+C:\Users\Usuário\Desktop\Fast Food\obj\Debug\net8.0-windows\Fast Food.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\Fast Food\obj\Debug\net8.0-windows\ref\Fast Food.dll
+C:\Users\Usuário\Desktop\Fast Food\obj\Debug\net8.0-windows\Fast_Food.Properties.Resources.resources
+C:\Users\Usuário\Desktop\Fast Food\obj\Debug\net8.0-windows\Fast Food.sourcelink.json
